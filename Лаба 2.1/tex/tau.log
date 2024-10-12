@@ -1,5 +1,5 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.9.3)  12 OCT 2024 13:47
- system commands enabled.
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.9.3)  12 OCT 2024 13:51
+ restricted system commands enabled.
 **tau.tex
 (./tau.tex
 LaTeX2e <2023-06-01> patch level 1
@@ -1478,122 +1478,8 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
-
-(c:/texlive/2023/texmf-dist/tex/latex/minted/minted.sty
-Package: minted 2022/12/12 v2.7 Yet another Pygments shim for LaTeX
-
-(c:/texlive/2023/texmf-dist/tex/latex/fvextra/fvextra.sty
-Package: fvextra 2022/11/30 v1.5 fvextra - extensions and patches for fancyvrb
-
-(c:/texlive/2023/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
-Package: fancyvrb 2023/01/19 4.5a verbatim text (tvz,hv)
-\FV@CodeLineNo=\count345
-\FV@InFile=\read5
-\FV@TabBox=\box71
-\c@FancyVerbLine=\count346
-\FV@StepNumber=\count347
-\FV@OutFile=\write4
 )
-(c:/texlive/2023/texmf-dist/tex/latex/upquote/upquote.sty
-Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
-tim
-
-(c:/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-))
-(c:/texlive/2023/texmf-dist/tex/latex/lineno/lineno.sty
-Package: lineno 2023/05/20 line numbers on paragraphs v5.3
-\linenopenalty=\count348
-\output=\toks53
-\linenoprevgraf=\count349
-\linenumbersep=\dimen318
-\linenumberwidth=\dimen319
-\c@linenumber=\count350
-\c@pagewiselinenumber=\count351
-\c@LN@truepage=\count352
-\c@internallinenumber=\count353
-\c@internallinenumbers=\count354
-\quotelinenumbersep=\dimen320
-\bframerule=\dimen321
-\bframesep=\dimen322
-\bframebox=\box72
-\linenoamsmath@ams@eqpen=\count355
-LaTeX Info: Redefining \\ on input line 3180.
-)
-\c@FV@TrueTabGroupLevel=\count356
-\c@FV@TrueTabCounter=\count357
-\FV@TabBox@Group=\box73
-\FV@TmpLength=\skip71
-\c@FV@HighlightLinesStart=\count358
-\c@FV@HighlightLinesStop=\count359
-\FV@LoopCount=\count360
-\FV@NCharsBox=\box74
-\FV@BreakIndent=\dimen323
-\FV@BreakIndentNChars=\count361
-\FV@BreakSymbolSepLeft=\dimen324
-\FV@BreakSymbolSepLeftNChars=\count362
-\FV@BreakSymbolSepRight=\dimen325
-\FV@BreakSymbolSepRightNChars=\count363
-\FV@BreakSymbolIndentLeft=\dimen326
-\FV@BreakSymbolIndentLeftNChars=\count364
-\FV@BreakSymbolIndentRight=\dimen327
-\FV@BreakSymbolIndentRightNChars=\count365
-\c@FancyVerbLineBreakLast=\count366
-\FV@LineBox=\box75
-\FV@LineIndentBox=\box76
-\c@FV@BreakBufferDepth=\count367
-\FV@LineWidth=\dimen328
-)
-(c:/texlive/2023/texmf-dist/tex/latex/tools/shellesc.sty
-Package: shellesc 2023/04/15 v1.0d unified shell escape interface for LaTeX
-Package shellesc Info: Unrestricted shell escape enabled on input line 75.
-)
-(c:/texlive/2023/texmf-dist/tex/latex/ifplatform/ifplatform.sty
-Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
-
-(c:/texlive/2023/texmf-dist/tex/generic/catchfile/catchfile.sty
-Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
-
-(c:/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-))
-(c:/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-))
-(c:/texlive/2023/texmf-dist/tex/generic/xstring/xstring.sty
-(c:/texlive/2023/texmf-dist/tex/generic/xstring/xstring.tex
-\xs_counta=\count368
-\xs_countb=\count369
-)
-Package: xstring 2023/08/22 v1.86 String manipulations (CT)
-)
-(c:/texlive/2023/texmf-dist/tex/latex/framed/framed.sty
-Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip72
-\fb@frw=\dimen329
-\fb@frh=\dimen330
-\FrameRule=\dimen331
-\FrameSep=\dimen332
-)
-(c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count370
-\float@exts=\toks54
-\float@box=\box77
-\@float@everytoks=\toks55
-\@floatcapt=\box78
-)
-\minted@appexistsfile=\read6
-\minted@bgbox=\box79
-\minted@code=\write5
-\c@minted@FancyVerbLineTemp=\count371
-\c@minted@pygmentizecounter=\count372
-\@float@every@listing=\toks56
-\c@listing=\count373
-)
-runsystem(if not exist _minted-tau mkdir _minted-tau)...executed.
-) (./tikzPreamble.tex
-(c:/texlive/2023/texmf-dist/tex/latex/tkz-base/tkz-base.sty
+(./tikzPreamble.tex (c:/texlive/2023/texmf-dist/tex/latex/tkz-base/tkz-base.sty
 2022/07/14 4.2c tkz-base.sty
 Package: tkz-base 2022/07/14 4.2c tkz-base
 
@@ -1607,21 +1493,21 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen333
+\arrowsize=\dimen318
 ))
 (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.cod
 e.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen334
-\pgfarrowlength=\dimen335
-\pgfarrowwidth=\dimen336
-\pgfarrowlinewidth=\dimen337
+\pgfarrowinset=\dimen319
+\pgfarrowlength=\dimen320
+\pgfarrowwidth=\dimen321
+\pgfarrowlinewidth=\dimen322
 )
 (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@layerbox@background=\box80
-\pgf@layerboxsaved@background=\box81
+\pgf@layerbox@background=\box71
+\pgf@layerboxsaved@background=\box72
 )
 (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarycalc.code.tex
@@ -1639,15 +1525,15 @@ orations.shapes.code.tex))
 brarydecorations.text.code.tex
 (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
 orations.text.code.tex
-\pgf@lib@dec@text@box=\box82
+\pgf@lib@dec@text@box=\box73
 )
-\tikz@lib@dec@te@box=\box83
+\tikz@lib@dec@te@box=\box74
 )
 (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryintersections.code.tex
 (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.c
 ode.tex
-\pgf@intersect@solutions=\count374
+\pgf@intersect@solutions=\count345
 ))
 (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarypatterns.code.tex
@@ -1694,31 +1580,31 @@ Package: numprint 2012/08/20 v1.39 Print numbers (HH)
 
 (c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen338
-\ar@mcellbox=\box84
-\extrarowheight=\dimen339
-\NC@list=\toks57
-\extratabsurround=\skip73
-\backup@length=\skip74
-\ar@cellbox=\box85
+\col@sep=\dimen323
+\ar@mcellbox=\box75
+\extrarowheight=\dimen324
+\NC@list=\toks53
+\extratabsurround=\skip71
+\backup@length=\skip72
+\ar@cellbox=\box76
 )
-\c@nprt@mantissa@digitsbefore=\count375
-\c@nprt@mantissa@digitsafter=\count376
-\c@nprt@exponent@digitsbefore=\count377
-\c@nprt@exponent@digitsafter=\count378
-\nprt@digitwidth=\skip75
-\nprt@sepwidth=\skip76
-\nprt@decimalwidth=\skip77
-\nprt@blockwidth=\skip78
-\nprt@digittoks=\toks58
-\nprt@pretoks=\toks59
-\nprt@posttoks=\toks60
-\nprt@thisdigit=\count379
-\nprt@curpos=\count380
-\nprt@rndpos=\count381
-\c@nprt@digitsfirstblock=\count382
-\c@nprt@blockcnt=\count383
-\c@nprt@cntprint=\count384
+\c@nprt@mantissa@digitsbefore=\count346
+\c@nprt@mantissa@digitsafter=\count347
+\c@nprt@exponent@digitsbefore=\count348
+\c@nprt@exponent@digitsafter=\count349
+\nprt@digitwidth=\skip73
+\nprt@sepwidth=\skip74
+\nprt@decimalwidth=\skip75
+\nprt@blockwidth=\skip76
+\nprt@digittoks=\toks54
+\nprt@pretoks=\toks55
+\nprt@posttoks=\toks56
+\nprt@thisdigit=\count350
+\nprt@curpos=\count351
+\nprt@rndpos=\count352
+\c@nprt@digitsfirstblock=\count353
+\c@nprt@blockcnt=\count354
+\c@nprt@cntprint=\count355
 
 No configuration file `numprint.cfg' found.)
 (c:/texlive/2023/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
@@ -1730,19 +1616,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 (c:/texlive/2023/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count385
+\actioncount=\count356
 )
 (c:/texlive/2023/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count386
-\FP@xia=\count387
-\FP@xib=\count388
-\FP@xfa=\count389
-\FP@xfb=\count390
-\FP@rega=\count391
-\FP@regb=\count392
-\FP@regs=\count393
-\FP@times=\count394
+\FP@xs=\count357
+\FP@xia=\count358
+\FP@xib=\count359
+\FP@xfa=\count360
+\FP@xfb=\count361
+\FP@rega=\count362
+\FP@regb=\count363
+\FP@regs=\count364
+\FP@times=\count365
 )
 (c:/texlive/2023/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
@@ -1761,7 +1647,7 @@ Package: fp-pas 1994/08/29
 )
 (c:/texlive/2023/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count395
+\FPseed=\count366
 )
 (c:/texlive/2023/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
@@ -1772,23 +1658,23 @@ Package: fp-upn 1996/10/21
 (c:/texlive/2023/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 ))
-\tkz@ax=\dimen340
-\tkz@ay=\dimen341
-\tkz@bx=\dimen342
-\tkz@by=\dimen343
-\tkz@cx=\dimen344
-\tkz@cy=\dimen345
-\tkz@dx=\dimen346
-\tkz@dy=\dimen347
-\tkz@tax=\dimen348
-\tkz@tay=\dimen349
-\tkz@tbx=\dimen350
-\tkz@tby=\dimen351
-\tkz@tcx=\dimen352
-\tkz@tcy=\dimen353
-\tkz@tdx=\dimen354
-\tkz@tdy=\dimen355
-\tkz@cntmk=\count396
+\tkz@ax=\dimen325
+\tkz@ay=\dimen326
+\tkz@bx=\dimen327
+\tkz@by=\dimen328
+\tkz@cx=\dimen329
+\tkz@cy=\dimen330
+\tkz@dx=\dimen331
+\tkz@dy=\dimen332
+\tkz@tax=\dimen333
+\tkz@tay=\dimen334
+\tkz@tbx=\dimen335
+\tkz@tby=\dimen336
+\tkz@tcx=\dimen337
+\tkz@tcy=\dimen338
+\tkz@tdx=\dimen339
+\tkz@tdy=\dimen340
+\tkz@cntmk=\count367
 
 Local configuration file tkz-base.cfg found and used
 (c:/texlive/2023/texmf-dist/tex/latex/tkz-base/tkz-base.cfg
@@ -1834,11 +1720,7 @@ File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.g
 eometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > tau
-.aex <nul: /p x=^%~$PATH:i>> tau.aex)...failed. 
-runsystem(del tau.aex)...executed.
- (./tau.aux (./title.aux))
+))) (./tau.aux (./title.aux))
 \openout1 = tau.aux
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 4.
@@ -1937,17 +1819,17 @@ LaTeX Info: Command `\ddddot' is already robust on input line 4.
 
 (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count397
-\scratchdimen=\dimen356
-\scratchbox=\box86
-\nofMPsegments=\count398
-\nofMParguments=\count399
-\everyMPshowfont=\toks61
-\MPscratchCnt=\count400
-\MPscratchDim=\dimen357
-\MPnumerator=\count401
-\makeMPintoPDFobject=\count402
-\everyMPtoPDFconversion=\toks62
+\scratchcounter=\count368
+\scratchdimen=\dimen341
+\scratchbox=\box77
+\nofMPsegments=\count369
+\nofMParguments=\count370
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count371
+\MPscratchDim=\dimen342
+\MPnumerator=\count372
+\makeMPintoPDFobject=\count373
+\everyMPtoPDFconversion=\toks58
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1965,14 +1847,13 @@ your preamble.
 
 Package hyperref Info: Link coloring ON on input line 4.
 (./tau.out) (./tau.out)
-\@outlinefile=\write6
+\@outlinefile=\write4
 
-\openout6 = tau.out
+\openout4 = tau.out
 Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count403
+\c@lstlisting=\count374
 
 \openout2 = title.aux
  (./title.tex
@@ -2019,9 +1900,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
-\tf@toc=\write7
+\tf@toc=\write5
 
-\openout7 = tau.toc
+\openout5 = tau.toc
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/TimesNewRoman(1)/m/it' tried instead on inpu
@@ -2126,14 +2007,14 @@ Package rerunfilecheck Info: File `tau.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 51427 strings out of 477259
+ 48596 strings out of 477259
  125027,1977958 words of node,token memory allocated
- 1163 words of node memory still in use:
-   23 hlist, 2 vlist, 10 rule, 5 glue, 4 kern, 1 glyph, 80 attribute, 62 glue_sp
+ 1158 words of node memory still in use:
+   23 hlist, 2 vlist, 10 rule, 5 glue, 4 kern, 1 glyph, 80 attribute, 61 glue_sp
 ec, 66 attribute_list, 2 write, 16 pdf_literal, 16 pdf_colorstack nodes
-   avail lists: 1:1,2:3544,3:1285,4:57,5:597,6:44,7:4045,8:72,9:782,10:13,11:419
+   avail lists: 1:1,2:3540,3:1285,4:57,5:597,6:44,7:4045,8:72,9:782,10:13,11:419
 
- 71033 multiletter control sequences out of 65536+600000
+ 68279 multiletter control sequences out of 65536+600000
  244 fonts using 46129551 bytes
  104i,16n,118p,719b,2235s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}<c:/Windows/Fonts/times
